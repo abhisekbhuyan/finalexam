@@ -40,3 +40,4 @@ function CartList({cart}) {
  )
 }
 export default CartList;
+
